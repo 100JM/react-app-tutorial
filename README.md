@@ -1,5 +1,7 @@
 # React 스터디 - 백종민
 
+참고 자료 : 생활 코딩 https://youtu.be/AoMv0SIjZL8
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
