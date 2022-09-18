@@ -2,6 +2,16 @@
 
 참고 자료 : 생활 코딩 https://youtu.be/AoMv0SIjZL8
 
+### `컴포넌트`
+
+### `props`
+
+### `event`
+
+### `state`
+
+### `create, update, delete`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
